@@ -1,0 +1,32 @@
+.banner{
+    padding-top:20px ;
+    padding-bottom: 10px;
+}
+.left-banners{
+    margin-right: 5px;
+}
+.left-banners >img{
+    width: 815px;
+    border-radius: 2px;
+}
+.right-banners >img{
+    width: 400px;
+    border-radius: 2px;
+    margin-bottom: 5px;
+}
+.bottom-section{
+    width: 1200px;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: flex-start;
+}
+.bottom-section >li{
+    width: 100px;
+    text-align: center;
+}
+
+.bottom-section >li >img{
+    width: 45px;
+    margin-bottom: 5px;
+
+}
